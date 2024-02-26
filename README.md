@@ -1,9 +1,10 @@
 # EXPERIMENT--01-ALP-FOR-8086
-```
-Name :S.bhuvaneshwari
-Roll no:212221240010
-Date of experiment :26/02/24
-```
+# Name :S.bhuvaneshwari
+
+# Roll no:212221240010
+
+# Date of experiment :26/02/24
+
 
 ## Aim: To Write and execute ALP on fundamental arithmetic and logical operations:
 ## Components required: 8086  emulator :
